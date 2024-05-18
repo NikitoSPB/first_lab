@@ -1,0 +1,41 @@
+Andrianov Arsenii Yakovlevich
+M
+18
+S
+yes
+2
+
+Gusarov Nikita Alexandrovich
+M
+19
+XL
+no
+1
+
+Kolobov Alexey Alexeevich
+M
+20
+M
+no
+1
+
+Voronina Svetlana Yurevna
+F
+19
+XXL
+yes
+3
+
+Boiko Sophia Igorevna
+F
+22
+XS
+no
+2
+
+Petrov Dmitriy Valentinovich
+M
+18
+L
+yes
+2

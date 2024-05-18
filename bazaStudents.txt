@@ -1,0 +1,55 @@
+Andrianov Arsenii Yakovlevich
+M
+3373
+1
+5 4 4 4 5 5 4 4
+full-part
+
+Gusarov Nikita Alexandrovich
+M
+3373
+2
+5 3 4 5 3 4 5 4
+full-part
+
+Kolobov Alexey Alexeevich
+M
+3373
+3
+5 3 4 3 3 4 3 3
+full-part
+
+Voronina Svetlana Yurevna
+F
+3373
+4
+5 5 5 5 5 5 5 5
+half-part
+
+Boiko Sophia Igorevna
+F
+3374
+1
+3 3 3 4 4 3 4 4
+half-part
+
+Dolgiy Alexey Sergeevich
+M
+3374
+2
+3 4 4 3 3 4 5 4
+full-part
+
+Petrov Dmitriy Valentinovich
+M
+3380
+3
+5 4 4 4 4 4 4 4
+Full-part
+
+Ivanov Ivan Ivanovich
+M
+3400
+1
+3 4 5 3 4 4 5 3
+full-part
